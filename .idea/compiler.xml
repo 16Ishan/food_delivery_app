@@ -7,6 +7,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="commons" />
         <module name="usermanagement" />
         <module name="restaurant" />
       </profile>
@@ -21,6 +22,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="app" options="-parameters" />
+      <module name="commons" options="-parameters" />
       <module name="food-delivery-app-parent" options="-parameters" />
       <module name="food-delivery-parent" options="" />
       <module name="restaurant" options="-parameters" />
