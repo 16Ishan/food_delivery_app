@@ -12,10 +12,6 @@ public class CustomError
 	private String errorMessage;
 	private String type;
 
-	public CustomError()
-	{
-	}
-
 	public CustomError(String code, String errorMessage, String type)
 	{
 		super();
