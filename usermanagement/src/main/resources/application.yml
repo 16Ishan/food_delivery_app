@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: restaurant
+  datasource:
+    url: jdbc:postgresql://localhost:5432/food-delivery
+    username: postgres
+    password: postgres
+  jpa:
+    show-sql: true
+
+server:
+  servlet:
+    context-path: /${spring.application.name}
