@@ -1,10 +1,6 @@
 
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 B
 restaurant/pom.xml,3\b\3bb77a1940e8318c6ce200a7f6bf7c883cadecff
-7
-pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 H
 food-delivery-parent.iml,7\9\79b882420f96236a4867e03aae39d8e79b3a9766
 u
